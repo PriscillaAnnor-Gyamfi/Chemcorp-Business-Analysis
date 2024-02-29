@@ -8,9 +8,15 @@
 
 
 
+<h2>Context</h2>
+As a leading producer of chemicals, ChemCorp has been in continual operations and distribution center expansion due to 7% growth averaging strong market demand yearly. The favorable growth rates and lowered barriers to entry has attracted increased competition from new startups who are offering optimized delivery channels for chemicals and the use of new technologies to create new and existing chemicals at a lower production cost. There is the need to protect the future market share and growth of ChemCorp’s industries.
+
+
+
 <h2>Problem Statement</h2>
-Understanding and Improving Hotel Booking Processes:
-Despite the significance of hotel bookings in the hospitality industry, challenges persist in optimizing booking procedures to enhance efficiency and guest satisfaction. This project aims to investigate factors influencing hotel bookings, such as hotel type, booking patterns, guest demographics, and cancellation rates, to identify opportunities for streamlining the booking process and improving overall guest experiences. By leveraging data-driven insights, this study seeks to address key issues and implement strategies that enhance booking procedures and maximize hotel revenue.
+In the next 6 months, we aim at a 10% increase in revenue.
+
+
 
 
 
