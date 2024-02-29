@@ -2,7 +2,7 @@
 
 <p align="center">
  <br/>
-<img src="https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/q2slq5wluuj6ks1h5dxx" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://www.chemcorp.com.au/cdn/shop/files/CHEMCORP_LOGO_2018_400x200.png?v=1613513942" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
