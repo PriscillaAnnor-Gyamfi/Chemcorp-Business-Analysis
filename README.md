@@ -22,25 +22,24 @@ In the next 6 months, we aim at a 10% increase in revenue.
 
 <h2>Key Findings</h2>
 
-- <b>	Among ChemCorp's six main businesses, Paper and Packaging boasts the highest revenue, while Pharmaceutical ranks lowest in terms of revenue.</b>
+- <b>Among ChemCorp's six main businesses, Paper and Packaging boasts the highest revenue, while Pharmaceutical ranks lowest in terms of revenue.</b>
 - <b>ChemCorp offers eleven chemical products (A-K), with Chemical K leading in revenue, followed by Chemicals H and I. Conversely, Chemical A generates the least revenue among the products. </b>
 - <b>Chemical E yields the highest profit across all business segments, with Chemicals C, G, J, K, H, F, D, I, and B following in descending order. Chemical A's profit is notably 55 times lower than that of 
      Chemical E.</b>
-- <b>Chemicals D, E, B, and C witness higher percentages of customer purchases, whereas Chemicals A and K have lower percentages. Despite this, Chemical K generates approximately 37 times more profit than    
-    Chemical A. Implementing new marketing strategies for Chemical K could potentially boost customer patronage. </b>
+- <b>Chemicals D, E, B, and C witness higher percentages of customer purchases, whereas Chemicals A and K have lower percentages. Despite this, Chemical K generates approximately 37 times more profit than   Chemical A. Implementing new marketing strategies for Chemical K could potentially boost customer patronage. </b>
 - <b>Although there is no consistent seasonal trend in product sales, Chemical H experiences a significant increase in May followed by a decline until another rise in November. Chemical K similarly sees a sharp 
-     decline in April and rise in June.</b>
+decline in April and rise in June.</b>
 - <b>Geographically, California generates the highest revenue for ChemCorp, followed by New York, Pennsylvania, and Texas in the Eastern, Western, and Southern regions of the United States, respectively. North 
-     Dakota, situated in the Northern zone, generates the least revenue.</b>
+Dakota, situated in the Northern zone, generates the least revenue.</b>
 - <b>The North Central region boasts the highest revenue across all business segments, while New England ranks lowest. Given North Dakota's location within the North Central Region, it presents a promising 
-     opportunity for investment to promote chemicals and enhance revenue.</b>
+opportunity for investment to promote chemicals and enhance revenue.</b>
 - <b>Biotechnology demonstrates the highest %Average Profit Margin overall, followed by Machinery and Industrial Goods. However, despite Paper and Packaging leading in revenue, it exhibits the lowest %Average 
-     Profit Margin. Exploring cost reduction strategies could potentially elevate the segment's profit margin.</b>
+Profit Margin. Exploring cost reduction strategies could potentially elevate the segment's profit margin.</b>
 - <b>Biotechnology, despite having fewer average total businesses compared to Machinery, achieves the highest %Average Profit Margin, followed by Machinery and Industrial Goods. Paper and Packaging, while 
-      ranking third in Average total business, has the lowest %Average Profit margin. Aerospace Defense, with the least average total businesses and the second lowest %Average Profit Margin, appears less 
-      favorable for investment.</b>
+ranking third in Average total business, has the lowest %Average Profit margin. Aerospace Defense, with the least average total businesses and the second lowest %Average Profit Margin, appears less 
+favorable for investment.</b>
 - <b>Machinery and Industrial Goods, along with Medical Equipment, emerge as the top two segments when considering total businesses, %Average profit margin, and revenues, whereas Aerospace Defense ranks lowest 
-      among the segments.</b>
+among the segments.</b>
  
  
  
