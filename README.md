@@ -47,40 +47,34 @@ among the segments.</b>
 <h2>Recommendations</h2>
 
 - <b>Chemical Product Focus:
-•	<b>Allocate resources towards promoting Chemical K, as it generates the highest revenue. Implement targeted marketing strategies to increase customer patronage for Chemical K.
-•	<b>Investigate reasons behind the lower revenue of Chemical A and explore opportunities for improvement.</b>
+•	Allocate resources towards promoting Chemical K, as it generates the highest revenue. Implement targeted marketing strategies to increase customer patronage for Chemical K.
+•	Investigate reasons behind the lower revenue of Chemical A and explore opportunities for improvement.</b>
 - <b>Geographic Focus:
-•	<b>Focus marketing efforts in high-revenue regions like California, New York, Pennsylvania, and Texas.
-•	<b>Consider investing more resources in regions like North Dakota within the North Central region to tap into potential growth opportunities.</b>
+•	Focus marketing efforts in high-revenue regions like California, New York, Pennsylvania, and Texas.
+•	Consider investing more resources in regions like North Dakota within the North Central region to tap into potential growth opportunities.</b>
 - <b>Business Segment Strategy:
-•	<b>Analyze and address the factors contributing to the lower profit margin of Paper and Packaging, despite its high revenue. This could involve optimizing operational efficiencies and reducing costs.
-•	<b>Explore avenues for expanding the business portfolio in segments with high-profit margins, such as Biotechnology and Machinery, to further enhance overall profitability.</b>
+•	Analyze and address the factors contributing to the lower profit margin of Paper and Packaging, despite its high revenue. This could involve optimizing operational efficiencies and reducing costs.
+•	Explore avenues for expanding the business portfolio in segments with high-profit margins, such as Biotechnology and Machinery, to further enhance overall profitability.</b>
 - <b>Seasonality and Sales Trend Analysis:
-•	<b>Capitalize on the seasonal sales trends observed for Chemical H and Chemical K by adjusting inventory levels and marketing strategies accordingly.
-•	<b>Conduct further research to identify potential seasonal patterns in other products and adjust sales and marketing strategies accordingly.</b>
+•	Capitalize on the seasonal sales trends observed for Chemical H and Chemical K by adjusting inventory levels and marketing strategies accordingly.
+•	Conduct further research to identify potential seasonal patterns in other products and adjust sales and marketing strategies accordingly.</b>
 - <b>Investment Prioritization:
-•	<b>Prioritize investment in segments with high-profit margins and revenue potential, such as Machinery and Industrial Goods, while considering divestment or restructuring options for segments with lower profitability, such as Aerospace Defense.
-•	<b>Evaluate the potential for diversifying the business portfolio to mitigate risks associated with segments showing lower profitability.</b>
+•	Prioritize investment in segments with high-profit margins and revenue potential, such as Machinery and Industrial Goods, while considering divestment or restructuring options for segments with lower profitability, such as Aerospace Defense.
+•	Evaluate the potential for diversifying the business portfolio to mitigate risks associated with segments showing lower profitability.</b>
 - <b>Cost Optimization:
-•	<b>Conduct a detailed analysis of expenses and costs across all segments, with a focus on reducing expenses in segments with lower profit margins.
-•	<b>Implement cost-saving measures and operational efficiencies to improve overall profitability across the organization.</b>
+•	Conduct a detailed analysis of expenses and costs across all segments, with a focus on reducing expenses in segments with lower profit margins.
+•	Implement cost-saving measures and operational efficiencies to improve overall profitability across the organization.</b>
 - <b>Marketing Strategies:
-•	<b>Develop and implement targeted marketing campaigns to promote high-revenue products like Chemical K, leveraging insights from customer purchase behavior.
-•	<b>Customize marketing efforts based on geographic regions to better align with local market preferences and trends.<b>
+•	Develop and implement targeted marketing campaigns to promote high-revenue products like Chemical K, leveraging insights from customer purchase behavior.
+•	Customize marketing efforts based on geographic regions to better align with local market preferences and trends.</b>
  
 
 <br />
 
 
-<h2>Language Used</h2>
-
-- <b>Python</b>
- 
-
-
 <h2>Environments Used </h2>
 
-- <b>Jupyter Notebook</b> 
+- <b>Tableau Public</b> 
 - <b>Windows 10</b> 
 
 <h2>Graphical Representations of some Key findings:</h2>
