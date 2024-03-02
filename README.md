@@ -77,8 +77,8 @@ among the segments.</b>
 - <b>Tableau Public</b> 
 - <b>Windows 10</b> 
 
-<h2>Graphical Representations in Tableau [here](https://public.tableau.com/app/profile/priscilla.annor.gyamfi/viz/CHEMCORPTABLEAUPROJECT/CHEMCORPANALYSISSTORY)</h2>
-
+<b>Graphical Representations in Tableau [here](https://public.tableau.com/app/profile/priscilla.annor.gyamfi/viz/CHEMCORPTABLEAUPROJECT/CHEMCORPANALYSISSTORY)
+</b>
 
 
 <!--
